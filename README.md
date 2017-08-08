@@ -1,0 +1,4 @@
+# alexa-ping
+Alexa Ping project
+
+Link to skill: https://skills-store.amazon.com/deeplink/tvt/4d6a355bcebe9df8dd4ff9be08d4c2f90c9fa15f6e0bb0098924e9fcd445deaacd9f818d137ad73d7905c95de079c0f3342590781a34e023e3e4c382fbd0828031ce1b0d9ba1f01eafc52b8d6c766a2f04cbad33da21b464618a13721055985cbccdff45f9bfe71163662111cafb34
